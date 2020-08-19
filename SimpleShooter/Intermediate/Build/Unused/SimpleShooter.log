@@ -1,0 +1,17 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (G:\unreal projects\SimpleShooter).
+  Parsing headers for SimpleShooterEditor
+    Running UnrealHeaderTool "G:\unreal projects\SimpleShooter\SimpleShooter\SimpleShooter.uproject" "G:\unreal projects\SimpleShooter\SimpleShooter\Intermediate\Build\Win64\SimpleShooterEditor\Development\SimpleShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\lenovo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for SimpleShooterEditor in 84.3331877 seconds
+  Building SimpleShooterEditor...
+  Using Visual Studio 2017 14.16.27034 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 8 processes...
+    [1/6] SimpleShooter.init.gen.cpp
+    [2/6] ShooterCharacter.gen.cpp
+    [3/6] ShooterCharacter.cpp
+    [4/6] UE4Editor-SimpleShooter-0005.lib
+      正在创建库 G:\unreal projects\SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-0005.lib 和对象 G:\unreal projects\SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-0005.exp
+    [5/6] UE4Editor-SimpleShooter-0005.dll
+      正在创建库 G:\unreal projects\SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-0005.suppressed.lib 和对象 G:\unreal projects\SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\UE4Editor-SimpleShooter-0005.suppressed.exp
+    [6/6] SimpleShooterEditor.target
+  Total time in Parallel executor: 269.10 seconds
+  Total execution time: 369.62 seconds

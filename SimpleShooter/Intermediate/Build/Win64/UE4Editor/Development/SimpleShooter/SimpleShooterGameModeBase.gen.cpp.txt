@@ -1,0 +1,9 @@
+G:\unreal projects\SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\Definitions.SimpleShooter.h
+G:\Unreal\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+G:\Unreal\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+G:\unreal projects\SimpleShooter\SimpleShooter\Source\SimpleShooter/SimpleShooterGameModeBase.h
+G:\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+G:\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+G:\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+G:\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+g:\unreal projects\simpleshooter\simpleshooter\intermediate\build\win64\ue4editor\inc\simpleshooter\SimpleShooterGameModeBase.generated.h

@@ -1,0 +1,7 @@
+G:\unreal projects\SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\Definitions.SimpleShooter.h
+g:\unreal projects\simpleshooter\simpleshooter\source\simpleshooter\ShooterCharacter.h
+G:\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+G:\Unreal\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+G:\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+G:\Unreal\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+G:\unreal projects\SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Inc\SimpleShooter\ShooterCharacter.generated.h

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SimpleShooter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{92376B5B-04EF-4D14-A372-A37EA03E66C4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SimpleShooter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SimpleShooterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7422941E-232F-42BB-AB4C-08FC5AFFBE29}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SimpleShooter">
+      <UniqueIdentifier>{71E411B9-19AB-4736-894D-7FE70474BFDE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SimpleShooter\ShooterCharacter.cpp">
+      <Filter>Source\SimpleShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SimpleShooter\ShooterCharacter.h">
+      <Filter>Source\SimpleShooter</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SimpleShooter\SimpleShooter.Build.cs">
+      <Filter>Source\SimpleShooter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SimpleShooter\SimpleShooter.cpp">
+      <Filter>Source\SimpleShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SimpleShooter\SimpleShooter.h">
+      <Filter>Source\SimpleShooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SimpleShooter\SimpleShooterGameModeBase.cpp">
+      <Filter>Source\SimpleShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SimpleShooter\SimpleShooterGameModeBase.h">
+      <Filter>Source\SimpleShooter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
