@@ -1,0 +1,3 @@
+G:\unreal projects\SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Development\SimpleShooter\Definitions.SimpleShooter.h
+g:\unreal projects\simpleshooter\simpleshooter\source\simpleshooter\Gun.h
+G:\unreal projects\SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UE4Editor\Inc\SimpleShooter\Gun.generated.h
